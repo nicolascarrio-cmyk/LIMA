@@ -1,0 +1,18 @@
+<!--exercicio 1: Cadastro de Livro-->
+<!--analise do codigo-->
+<!--?xml version="1.0" encoding="UTF-8"?>
+
+<!errado>
+<livro>
+<titulo>Banco de Dados
+<autor>Maria Oliveira</autor>
+<ano>2025</ano>
+</livro> --> 
+
+corrigido
+<!--?xml version="1.0" encoding="UTF-8"?> -->
+<livro>
+<titulo>Banco de Dados</titulo>
+<autor>Maria Oliveira</autor>
+<ano>2025</ano>
+</livro>
