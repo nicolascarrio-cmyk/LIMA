@@ -1,0 +1,21 @@
+body {
+    background-color: #10121c;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    color: #bbe7f9;
+}
+
+.produto,
+.informacao {
+    background-color: #1c2235;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+}
